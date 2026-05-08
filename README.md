@@ -2,6 +2,10 @@
 
 Static website for a Hyperliquid sentiment dashboard with a live paper-trading terminal, fake USDT wallet, local trader profile, live crypto trends, open positions, and paper trade history.
 
+## Live site
+
+https://laksharora1708.github.io/live-paper-trading-dashboard/
+
 ## Run locally
 
 Open `index.html` in a browser, or serve the folder with any static web server.
